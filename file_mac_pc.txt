@@ -1,1 +1,3 @@
 this text  is typed from mac
+
+this text is typed from PC
